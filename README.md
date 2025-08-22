@@ -38,7 +38,7 @@ This is how it looks without styling:
 
 ![Initial HTML Skeleton](images/init-skeleton.png)
 
-## Step 2: Added Initial Styles
+## Step 2: Adding Initial Styles with CSS
 
 ---
 
@@ -136,3 +136,8 @@ The content is centered on the page with a maximum width of 600px, preventing li
 The content is centered and does not exceed 600px in width, ensuring optimal readability and a visually balanced layout.
 
 ![Desktop layout screenshot](images/desktop-layout.png)
+
+
+## Step 3: Added Interactvity with JavaScript
+
+---
