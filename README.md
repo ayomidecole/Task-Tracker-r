@@ -127,6 +127,7 @@ This media query defines how the page should behave at a specific breakpoint. We
 
 **On a mobile device:**  
 The layout stretches to fill the screen width, with comfortable padding and readable font sizes. All content remains easily accessible and adapts to smaller screens.
+
 ![Mobile layout screenshot](images/mobile-layout.png)
 
 **On a larger screen (600px and up):**  
